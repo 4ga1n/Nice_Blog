@@ -4,7 +4,7 @@ name: Wu Wangyan # your name
 email: zxacd@qq.com # your email address
 description: >
    让孩子活在梦里 # this means to ignore newlines until "baseurl:"
-baseurl: "http://www.xinyiheyi.net" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.xinyiheyi.net" # the base hostname & protocol for your site
 twitter_username:  # your Twitter username
 github_username: 4ga1n # your Github username
