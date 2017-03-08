@@ -6,11 +6,11 @@ description: >
    让孩子活在梦里 # this means to ignore newlines until "baseurl:"
 baseurl: "http://www.xinyiheyi.net" # the subpath of your site, e.g. /blog
 url: "http://www.xinyiheyi.net" # the base hostname & protocol for your site
-twitter_username: itisbenjamin1 # your Twitter username
+twitter_username:  # your Twitter username
 github_username: 4ga1n # your Github username
 disqus_username: itisbenjamin # your disqus username
 
-google-analytics: UA-75034651-1 # add it if you have one
+google-analytics:  # add it if you have one
 
 skillstree: true # turn on or off the skills tree in about page
 
