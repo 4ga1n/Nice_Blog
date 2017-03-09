@@ -8,7 +8,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.xinyiheyi.net" # the base hostname & protocol for your site
 twitter_username:  # your Twitter username
 github_username: 4ga1n # your Github username
-disqus_username: itisbenjamin # your disqus username
+#disqus_username: itisbenjamin # your disqus username
+site.duoshuoname:wuwangyan
 
 google-analytics:  # add it if you have one
 
