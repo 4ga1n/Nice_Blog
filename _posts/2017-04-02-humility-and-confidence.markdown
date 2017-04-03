@@ -4,7 +4,7 @@ title: "我理解的谦虚与自信"
 date: 2017-04-02
 author: 吴望言
 category: raw_thoughts
-tags: 自信 谦虚 勇敢
+tags: 自信 谦虚 勇敢 2星文章
 finished: true
 ---
 
