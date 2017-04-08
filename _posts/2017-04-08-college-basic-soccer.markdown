@@ -3,7 +3,7 @@ layout: post
 title: "校园足球思考（一）核心与思路"
 date: 2017-04-07
 author: 吴望言
-category: 校园足球思考
+category: soccer
 tags: 足球 
 finished: true
 ---
